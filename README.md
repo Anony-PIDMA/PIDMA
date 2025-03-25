@@ -23,10 +23,10 @@ PIDMA supports both passive and active contexts to trigger automation rules:
 ## Demo videos of PIDMA
 
 The following two videos demonstrate two examples of the same rule: "If the camera contains dumbbells and the location is within the student dormitory, then open the dumbbell tutorial in the JEFIT app".
-### DEMO1
+### [DEMO1](https://drive.google.com/file/d/1_r7hJ2Z6ZOOz6FogmHNdi5ht96VUQHds/view?usp=drive_link) (click for high-resolution video)
 https://github.com/user-attachments/assets/6b72359e-66a9-4a62-88a5-fba062d979c0
 
-### DEMO2
+### [DEMO2](https://drive.google.com/file/d/1p8kAcyFiaPrCGKZE38kvObc9mxsDX9F1/view?usp=drive_link) (click for high-resolution video)
 https://github.com/user-attachments/assets/4e4f4d15-966d-4b86-bd88-220955cd7c2a
 
 The main difference between the two demos is whether the active context is input during rule programming (demo1, novice) or in-situ demonstration (demo2, familiar user), simulating two usage methods with different levels of familiarity with the system. Among them, the usage method of demo2 has better system performance due to more specific information; in demo1, users understand contextual information in the process of human-computer collaboration and determine their preferred conditions.
